@@ -1933,6 +1933,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markdown raw</string>
+			<key>scope</key>
+			<string>markup.raw.block.markdown, markup.raw.inline.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2AA198</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>SublimeLinter Annotations</string>
 			<key>scope</key>
 			<string>sublimelinter.notes</string>
