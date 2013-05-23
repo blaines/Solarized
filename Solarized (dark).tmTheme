@@ -62,7 +62,7 @@
 			<key>name</key>
 			<string>Regexp</string>
 			<key>scope</key>
-			<string>string.regexp, constant.character.escape</string>
+			<string>string.regexp</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
