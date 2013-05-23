@@ -49,13 +49,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>StringNumber</string>
+			<string>Quotes</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>punctuation.definition.string.begin, punctuation.definition.string.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#93A1A1</string><!-- base1 -->
+				<string>#DC322F</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -82,7 +82,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Built-in constant</string>
+			<string>Preprocessor</string>
 			<key>scope</key>
 			<string>meta.preprocessor</string>
 			<key>settings</key>
@@ -310,28 +310,6 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict/>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Quoted String</string>
-			<key>scope</key>
-			<string>string.quoted.double, string.quoted.single</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#2AA198</string><!-- cyan -->
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Quotes</string>
-			<key>scope</key>
-			<string>punctuation.definition.string.begin, punctuation.definition.string.end</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#DC322F</string><!-- red -->
-			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
