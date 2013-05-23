@@ -282,6 +282,17 @@
 				<string>#DC322F</string><!-- red -->
 			</dict>
 		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Link</string>
+			<key>scope</key>
+			<string>meta.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6C71C4</string><!-- violet -->
+			</dict>
+		</dict>
 		<!-- Markup -->
 		<dict>
 			<key>name</key>
