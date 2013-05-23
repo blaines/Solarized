@@ -55,14 +55,14 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DC322F</string><!-- red -->
+				<string>#2AA198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Regexp</string>
 			<key>scope</key>
-			<string>string.regexp</string>
+			<string>string.regexp, constant.character.escape</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
