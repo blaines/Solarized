@@ -282,6 +282,51 @@
 				<string>#DC322F</string><!-- red -->
 			</dict>
 		</dict>
+		<!-- Markup -->
+		<dict>
+			<key>name</key>
+			<string>Markup heading</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CB4B16</string><!-- orange -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup raw</string>
+			<key>scope</key>
+			<string>markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2AA198</string><!-- cyan -->
+			</dict>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Markup em</string>
+			<key>scope</key>
+			<string>markup.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Markup strong</string>
+			<key>scope</key>
+			<string>markup.bold</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
