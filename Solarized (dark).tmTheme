@@ -71,7 +71,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Number</string>
+			<string>Constant</string>
 			<key>scope</key>
 			<string>constant.numeric, constant.language, constant.character, constant.other</string>
 			<key>settings</key>
