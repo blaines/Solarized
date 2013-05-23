@@ -84,11 +84,11 @@
 			<key>name</key>
 			<string>Preprocessor</string>
 			<key>scope</key>
-			<string>meta.preprocessor</string>
+			<string>meta.preprocessor, entity.name.function.preprocessor, keyword.control.import</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D33682</string><!-- magenta -->
+				<string>#CB4B16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
