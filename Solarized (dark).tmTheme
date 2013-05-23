@@ -112,7 +112,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#859900</string><!-- green -->
+				<string>#B58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
