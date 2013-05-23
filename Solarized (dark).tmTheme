@@ -73,7 +73,18 @@
 			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
-			<string>constant.numeric</string>
+			<string>constant.numeric, constant.language, constant.character, constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2AA198</string><!-- cyan -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Built-in constant</string>
+			<key>scope</key>
+			<string>meta.preprocessor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -161,17 +172,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Built-in constant</string>
-			<key>scope</key>
-			<string>constant.language, meta.preprocessor</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#B58900</string><!-- yellow -->
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Support.construct</string>
 			<key>scope</key>
 			<string>support.function.construct, keyword.other.new</string>
@@ -179,17 +179,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#DC322F</string><!-- red -->
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>User-defined constant</string>
-			<key>scope</key>
-			<string>constant.character, constant.other</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#CB4B16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
