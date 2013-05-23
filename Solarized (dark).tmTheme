@@ -120,8 +120,6 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#B58900</string><!-- yellow -->
 			</dict>
